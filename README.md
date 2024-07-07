@@ -5,7 +5,7 @@ This repository is for WildRefer dataset and official implement for STCrowd: **W
 Our dataset can be download [here](https://drive.google.com/drive/folders/1UTyHTC3ixU9ATKxdJxK-ob6SGqUpA_r1?usp=drive_link
 ).
 
-We strongly recommend to use our pre-processed [HuCenLife](https://github.com/4DVLab/HuCenLife) and [STCrowd](https://github.com/4DVLab/STCrowd) that can be downloaded [here](https://drive.google.com/drive/folders/1g5OgIT3svL6TPXcusPPsigsnP_Yi1JT7?usp=drive_link)
+We strongly recommend to use our pre-processed [HuCenLife](https://github.com/4DVLab/HuCenLife) and [STCrowd](https://github.com/4DVLab/STCrowd) that can be downloaded [here](https://drive.google.com/drive/folders/1g5OgIT3svL6TPXcusPPsigsnP_Yi1JT7?usp=drive_link).
 
 # How to use this code
 ## Data Preparation
