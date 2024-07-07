@@ -1,5 +1,5 @@
 # WildRefer: 3D Object Localization in Large-scale Dynamic Scenes with Multi-modal Visual Data and Natural Language
-This repository is for WildRefer dataset and official implement for STCrowd: **WildRefer: 3D Object Localization in Large-scale Dynamic Scenes with Multi-modal Visual Data and Natural Language**.
+This repository is for WildRefer dataset and official implement for WildRefer: **WildRefer: 3D Object Localization in Large-scale Dynamic Scenes with Multi-modal Visual Data and Natural Language**.
 
 # Dataset
 Our dataset can be download [here](https://drive.google.com/drive/folders/1UTyHTC3ixU9ATKxdJxK-ob6SGqUpA_r1?usp=drive_link
