@@ -1,0 +1,13 @@
+setuptools==69.1.1
+packaging==20.9
+opencv-python
+plyfile
+scipy
+tensorboard
+tensorboardX
+tqdm
+trimesh
+shapely==1.8.2
+matplotlib
+transformers==4.26
+spacy
